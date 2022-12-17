@@ -1,0 +1,9 @@
+body{
+    background:linear-gradient(skyblue , lightgreen,white,skyblue,lightgreen);
+}
+a:hover{
+    color:red;
+}
+h1{
+    text-shadow:5px 5px 8px;
+}
